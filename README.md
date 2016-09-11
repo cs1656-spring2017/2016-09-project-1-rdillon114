@@ -58,19 +58,19 @@ keywords = pittsburgh steelers
     weight(steelers)=3.169925
 ...
 ```
-
 > A sample output, for the keywords contained in the `keywords.txt` file is provided in the file `output.txt` 
->
+>  
 
+Note that in cases of documents with the same relevance score, their ranks are tied and the same number is used for all (for example, there are four documents ranked [5] in the sample output. 
 
 ### Important notes about grading
 It is absolutely imperative that your python programs:  
 * run without any syntax or other errors (using Python 2.7) -- we will run them using the following command:  
 `python ire-index.py`  and 
 `python ire-search.py`
-* strictly adhere to the format specifications   
+* strictly adhere to the format specifications for input and output, as explained above.     
 
-Failure in any of the above will result in severe point loss. 
+Failure in any of the above will result in **severe** point loss. 
 
 
 ### Allowed Python Libraries
