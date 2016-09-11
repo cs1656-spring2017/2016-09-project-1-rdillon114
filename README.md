@@ -5,8 +5,8 @@
 > Instructor: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu)  
 > 
 > Assignment: #1  
-> Released: September 10, 2016  
-> **Due:      September 24, 2016**
+> Released: September 11, 2016  
+> **Due:      September 25, 2016**
 
 ### Description
 This is the **first assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Fall 2016 semester.
@@ -81,7 +81,7 @@ If you would like to use any other libraries, you must ask permission by Wednesd
 ---
 
 ### How to submit your assignment
-For this assignment, you must use the repository that was created for you after visiting the classroom link. You need to update the repository to include files `ire-index.py` and `ire-search.py`, as described above, and other files that are needed for running your program. You need to make sure to commit your code to the repository provided. We will clone all repositories shortly after midnight on **Saturday, September 24th, 2016 (i.e., at 12:15am, Sunday, September 25, 2016)**. The **current** state of all repositories at that time is what we will use to grade this assignment. A submission that is late by one day will receive a penalty of 5 points, whereas a submission that is late by two days will receive a penalty of 15 points. No submissions will be accepted that are more than two days late, i.e., after midnight on Monday, September 26th, 2016.
+For this assignment, you must use the repository that was created for you after visiting the classroom link. You need to update the repository to include files `ire-index.py` and `ire-search.py`, as described above, and other files that are needed for running your program. You need to make sure to commit your code to the repository provided. We will clone all repositories shortly after midnight on **Sunday, September 25th, 2016 (i.e., at 12:15am, Monday, September 26, 2016)**. The **current** state of all repositories at that time is what we will use to grade this assignment. A submission that is late by one day will receive a penalty of 5 points, whereas a submission that is late by two days will receive a penalty of 15 points. **No submissions will be accepted that are more than two days late, i.e., after midnight on Tuesday, September 27th, 2016.**
 
 ### About your github account
 It is very important that:  
