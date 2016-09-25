@@ -13,6 +13,7 @@ for filename in os.listdir(os.path.join("input/")):
         j = j + 1
 
     documents[filename] = lines
+    f.close()
 
 print
 print
@@ -100,17 +101,10 @@ for key in documents:
 #this is for debugging only..... looking at the counts of each word in each document.
 for key in docs:
     for word in docs[key]:
+        print key + " " + word
         print docs[key][word]
 
 #outputting the docs dictionary to the json file.
 file = open("inverted-index.json", "wb")
 json.dump(docs, file)
 file.close()
-
-
-'''
-print '\n\n\n\n'
-for key in docs:
-    for key1 in docs[key]:
-        print key1
-        print docs[key][key1]'''
